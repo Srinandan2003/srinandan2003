@@ -67,6 +67,4 @@ A personal portfolio website showcasing skills, projects, and developer journey 
 I'm always eager to learn, contribute to meaningful projects, and collaborate with like-minded developers. Let's build something awesome together! 🚀
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/srinandan-m-n-b55bab321) | Check out more projects on [GitHub](https://github.com/Srinandan2003)*
-
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
