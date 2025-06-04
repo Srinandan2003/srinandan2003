@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif
+
 # Hi there, I'm Srinandan! 👋
 
 I'm a passionate full-stack developer with a focus on JavaScript, React, and Node.js. I love building scalable web applications and enjoy working on both frontend and backend technologies. I completed BCA and later underwent intensive full-time training at Masai School, where I gained hands-on experience through real-world projects and regular problem-solving.
