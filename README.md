@@ -1,8 +1,20 @@
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
 
-# Hi there, I'm Srinandan! 👋
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      
+<h1>Hi there, I'm Srinandan! 👋</h1>
 
 I'm a passionate full-stack developer with a focus on JavaScript, React, and Node.js. I love building scalable web applications and enjoy working on both frontend and backend technologies. I completed BCA and later underwent intensive full-time training at Masai School, where I gained hands-on experience through real-world projects and regular problem-solving.
+
+   </td>
+   <td valign="top" width="35%">
+     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VzYXpmdWZ6aHJ3cmVlNG1rcGwyeGh4OGV0ZjN2eXR1Y2dpcjlsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
+   </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Skills
 
