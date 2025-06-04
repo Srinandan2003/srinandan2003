@@ -28,7 +28,7 @@ A full-stack application for booking event tickets, featuring user registration,
 * **Frontend**: React.js, Vite, Tailwind CSS, Axios
 * **Backend**: Node.js, Express.js, MongoDB, Mongoose, JWT, CORS, dotenv
 
-[Live Demo](https://ticket-booking-app-one.vercel.app/login) | [Backend API](ticket-booking-app-pfq1.onrender.com) | [GitHub Repo](https://github.com/Srinandan2003/TICKET_BOOKING_APP)
+[Live Demo](https://ticket-booking-app-one.vercel.app/) | [GitHub Repo](https://github.com/Srinandan2003/TICKET_BOOKING_APP)
 
 ### 🌟 My Portfolio
 A personal portfolio website showcasing skills, projects, and developer journey with a sleek, responsive design and interactive animations.
@@ -51,9 +51,9 @@ A personal portfolio website showcasing skills, projects, and developer journey 
 
 ## Contact
 - Email: srinandan2003@gmail.com
-- LinkedIn: [Connect on LinkedIn](www.linkedin.com/in/srinandan-m-n-b55bab321)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/srinandan-m-n-b55bab321)
 
 I'm always eager to learn, contribute to meaningful projects, and collaborate with like-minded developers. Let's build something awesome together! 🚀
 
---- 
-*Connect with me on [LinkedIn](www.linkedin.com/in/srinandan-m-n-b55bab321) | Check out more projects on [GitHub](https://github.com/Srinandan2003)*
+---
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/srinandan-m-n-b55bab321) | Check out more projects on [GitHub](https://github.com/Srinandan2003)*
