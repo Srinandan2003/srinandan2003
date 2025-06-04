@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
 
 # Hi there, I'm Srinandan! 👋
 
@@ -17,16 +18,16 @@ I'm a passionate full-stack developer with a focus on JavaScript, React, and Nod
 A full-stack MERN application enabling real-time messaging with Socket.io, featuring user authentication and a responsive design.
 
 **Tech Stack:**
-* **Backend**: Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, Bcrypt.js, Cloudinary
-* **Frontend**: React 19, Vite 6, React Router v7, Zustand, Socket.io-client, Tailwind CSS, Daisy UI, Axios, React Hot Toast
+* **Backend**: Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, Bcrypt.js, Cloudinary  
+* **Frontend**: React 19, Vite 6, React Router v7, Zustand, Socket.io-client, Tailwind CSS, Daisy UI, Axios, React Hot Toast  
 
-[Live Demo](https://realtime-chat-application-1-ipjp.onrender.com/login)| [GitHub Repo](https://github.com/Srinandan2003/Realtime_Chat_Application)
+[Live Demo](https://realtime-chat-application-1-ipjp.onrender.com/login) | [GitHub Repo](https://github.com/Srinandan2003/Realtime_Chat_Application)
 
 ### 🎟️ Ticket Booking App
 A full-stack application for booking event tickets, featuring user registration, login, and seamless booking experience.
 
 **Tech Stack:**
-* **Frontend**: React.js, Vite, Tailwind CSS, Axios
+* **Frontend**: React.js, Vite, Tailwind CSS, Axios  
 * **Backend**: Node.js, Express.js, MongoDB, Mongoose, JWT, CORS, dotenv
 
 [Live Demo](https://ticket-booking-app-one.vercel.app/) | [GitHub Repo](https://github.com/Srinandan2003/TICKET_BOOKING_APP)
@@ -41,8 +42,8 @@ A personal portfolio website showcasing skills, projects, and developer journey 
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinandan2003)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinandan2003)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Srinandan2003)](https://github.com/Srinandan2003)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinandan2003)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Srinandan2003)](https://github.com/Srinandan2003)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Srinandan2003)](https://git.io/streak-stats)
 
 ## Badges
@@ -51,10 +52,12 @@ A personal portfolio website showcasing skills, projects, and developer journey 
 [![JavaScript](https://img.shields.io/badge/Written%20in-JavaScript-yellow)](https://www.javascript.com/)
 
 ## Contact
-- Email: srinandan2003@gmail.com
+- Email: srinandan2003@gmail.com  
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/srinandan-m-n-b55bab321)
 
 I'm always eager to learn, contribute to meaningful projects, and collaborate with like-minded developers. Let's build something awesome together! 🚀
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/srinandan-m-n-b55bab321) | Check out more projects on [GitHub](https://github.com/Srinandan2003)*
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
