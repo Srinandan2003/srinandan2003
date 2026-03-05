@@ -6,7 +6,7 @@
       
 <h1>Hi there, I'm Srinandan! 👋</h1>
 
-Backend-focused developer with 8 months of experience in a fintech environment, working with Node.js, Express, and PostgreSQL. Experienced in integrating external partner and banking APIs, supporting KYC verification workflows, and assisting in debugging production issues in API-driven systems. Comfortable contributing to backend services as well as frontend features using React.
+Backend developer with 8 months of experience working on fintech APIs using Node.js, Express, and PostgreSQL. Involved in integrating partner and banking APIs, supporting KYC verification workflows, and investigating production issues related to API responses and external services. Also familiar with frontend development using React.
 
    </td>
    <td valign="top" width="35%">
@@ -30,12 +30,6 @@ Backend-focused developer with 8 months of experience in a fintech environment, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </div>
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinandan2003)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinandan2003)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Srinandan2003)](https://github.com/Srinandan2003)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Srinandan2003)](https://git.io/streak-stats)
 
 ## Badges
 [![Made with React](https://img.shields.io/badge/Made%20with-React-blue)](https://reactjs.org/)
