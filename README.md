@@ -6,7 +6,7 @@
       
 <h1>Hi there, I'm Srinandan! 👋</h1>
 
-I'm a passionate full-stack developer with a focus on JavaScript, React, and Node.js. I love building scalable web applications and enjoy working on both frontend and backend technologies. I completed BCA and later underwent intensive full-time training at Masai School, where I gained hands-on experience through real-world projects and regular problem-solving.
+Backend-focused developer with 8 months of experience in a fintech environment, working with Node.js, Express, and PostgreSQL. Experienced in integrating external partner and banking APIs, supporting KYC verification workflows, and assisting in debugging production issues in API-driven systems. Comfortable contributing to backend services as well as frontend features using React.
 
    </td>
    <td valign="top" width="35%">
@@ -23,40 +23,13 @@ I'm a passionate full-stack developer with a focus on JavaScript, React, and Nod
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </div>
-
-## Featured Projects
-
-### 💬 QuickTalk - Real-Time Chat Application
-A full-stack MERN application enabling real-time messaging with Socket.io, featuring user authentication and a responsive design.
-
-**Tech Stack:**
-* **Backend**: Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, Bcrypt.js, Cloudinary  
-* **Frontend**: React 19, Vite 6, React Router v7, Zustand, Socket.io-client, Tailwind CSS, Daisy UI, Axios, React Hot Toast  
-
-[Live Demo](https://realtime-chat-application-1-ipjp.onrender.com/login) | [GitHub Repo](https://github.com/Srinandan2003/Realtime_Chat_Application)
-
-### 🎟️ Ticket Booking App
-A full-stack application for booking event tickets, featuring user registration, login, and seamless booking experience.
-
-**Tech Stack:**
-* **Frontend**: React.js, Vite, Tailwind CSS, Axios  
-* **Backend**: Node.js, Express.js, MongoDB, Mongoose, JWT, CORS, dotenv
-
-[Live Demo](https://ticket-booking-app-one.vercel.app/) | [GitHub Repo](https://github.com/Srinandan2003/TICKET_BOOKING_APP)
-
-### 🌟 My Portfolio
-A personal portfolio website showcasing skills, projects, and developer journey with a sleek, responsive design and interactive animations.
-
-**Tech Stack:**
-* React 19, Tailwind CSS, Framer Motion, Three.js, React Router DOM, React GitHub Calendar, React Intersection Observer
-
-[Live Demo](https://my-portfolio-2025-rho.vercel.app/) | [GitHub Repo](https://github.com/Srinandan2003/My_Professional_Portfolio_2025)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinandan2003)
@@ -77,6 +50,3 @@ I'm always eager to learn, contribute to meaningful projects, and collaborate wi
 
 ---
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
-
-
-
